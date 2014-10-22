@@ -66,10 +66,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int button_wh_normal=0x7f020001;
         public static final int button_wh_pressed=0x7f020002;
         public static final int ic_launcher=0x7f020003;
-        public static final int poe_gradient_background=0x7f020004;
-        public static final int spinner_default_holo_light=0x7f020005;
-        public static final int spinner_wh_background=0x7f020006;
-        public static final int white_gray_gradient_background=0x7f020007;
+        public static final int poe_background=0x7f020004;
+        public static final int poe_gradient_background=0x7f020005;
+        public static final int spinner_default_holo_light=0x7f020006;
+        public static final int spinner_wh_background=0x7f020007;
+        public static final int white_gray_gradient_background=0x7f020008;
     }
     public static final class id {
         public static final int btnClearData=0x7f09000a;
@@ -129,8 +130,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
  All customizations that are NOT specific to a particular API-level can go here. 
          */
         public static final int AppTheme=0x7f070001;
-        public static final int Theme_Holo_Light=0x7f07000d;
-        public static final int Theme_YOUR_CUSTOM_THEME=0x7f07000e;
+        public static final int Theme_Holo_Light=0x7f07000e;
+        public static final int Theme_YOUR_CUSTOM_THEME=0x7f07000f;
         public static final int action_bar_wh=0x7f07000b;
         public static final int button_wh=0x7f070008;
         public static final int horizontal_line_wh=0x7f07000a;
@@ -150,6 +151,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int text_large_wh=0x7f070005;
         public static final int text_regular_wh=0x7f070006;
         public static final int text_subheader_wh=0x7f070004;
+        public static final int white_background_poe=0x7f07000d;
         public static final int white_background_wh=0x7f070007;
     }
 }
